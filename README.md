@@ -33,7 +33,9 @@ No build process or dependencies required - it's a static site!
 
 ## Project Structure
 
-- `index.html`: Main HTML file containing all the code (HTML, CSS, JS).
+- `index.html`: Main HTML file with the structure and content.
+- `styles.css`: All CSS styles, including responsive design and theming.
+- `script.js`: JavaScript functionality for interactivity, cart, and theme handling.
 
 ## Contributing
 
